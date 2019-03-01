@@ -8,6 +8,6 @@ class App < Sinatra::Base
 
   post '/display_puppy'
   erb :display_puppy
-end
+  end
 
 end
